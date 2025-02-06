@@ -29,5 +29,5 @@ The project aims to leverage **Python, SQL, and Power BI** to generate actionabl
    ```bash
    git clone <your-repo-url>
 
-📜 Findings & Insights
+## 📜 Findings & Insights
 
